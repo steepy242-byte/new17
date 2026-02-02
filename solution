@@ -1,0 +1,147 @@
+Here is the perfect solution code for challenge:
+
+--- Take any of the following actions ---
+L) Load number
+D) Delete number
+S) Show numbers
+C) Convert base
+V) Verify system integrity
+Q) Quit
+> L
+Slot (0-7): 0
+Base (10 or 16): 16
+Number: 02386F26FC10001
+Loaded
+
+--- Take any of the following actions ---
+L) Load number
+D) Delete number
+S) Show numbers
+C) Convert base
+V) Verify system integrity
+Q) Quit
+> L
+Slot (0-7): 1
+Base (10 or 16): 16
+Number: 02386F26FC10001
+Loaded
+
+--- Take any of the following actions ---
+L) Load number
+D) Delete number
+S) Show numbers
+C) Convert base
+V) Verify system integrity
+Q) Quit
+> L
+Slot (0-7): 2
+Base (10 or 16): 16
+Number: 02386F26FC10001
+Loaded
+
+--- Take any of the following actions ---
+L) Load number
+D) Delete number
+S) Show numbers
+C) Convert base
+V) Verify system integrity
+Q) Quit
+> L
+Slot (0-7): 3
+Base (10 or 16): 16
+Number: 02386F26FC10001
+Loaded
+
+--- Take any of the following actions ---
+L) Load number
+D) Delete number
+S) Show numbers
+C) Convert base
+V) Verify system integrity
+Q) Quit
+> L
+Slot (0-7): 4
+Base (10 or 16): 16
+Number: 02386F26FC10001
+Loaded
+
+--- Take any of the following actions ---
+L) Load number
+D) Delete number
+S) Show numbers
+C) Convert base
+V) Verify system integrity
+Q) Quit
+> C
+Slot: 0
+Converted
+
+--- Take any of the following actions ---
+L) Load number
+D) Delete number
+S) Show numbers
+C) Convert base
+V) Verify system integrity
+Q) Quit
+> D
+Slot: 1
+Deleted
+
+--- Take any of the following actions ---
+L) Load number
+D) Delete number
+S) Show numbers
+C) Convert base
+V) Verify system integrity
+Q) Quit
+> L
+Slot (0-7): 1
+Base (10 or 16): 16
+Number: AAAAAAAAAAAAAAAAa
+Loaded
+
+--- Take any of the following actions ---
+L) Load number
+D) Delete number
+S) Show numbers
+C) Convert base
+V) Verify system integrity
+Q) Quit
+> D
+Slot: 2
+Deleted
+
+--- Take any of the following actions ---
+L) Load number
+D) Delete number
+S) Show numbers
+C) Convert base
+V) Verify system integrity
+Q) Quit
+> V
+System verified
+
+--- Take any of the following actions ---
+L) Load number
+D) Delete number
+S) Show numbers
+C) Convert base
+V) Verify system integrity
+Q) Quit
+> S
+Slot 000 | Base 10 | Number 10000000000000001
+Slot 001 | Base 16 | Number AAAAAAAAAAAAAAAAa
+Slot 003 | Base 3327647950551526958 | Number LNMHacksCTF{0v3rl4pp1ng_h34p_h4cks}
+F2
+Slot 004 | Base 7148453267657470824 | Number ks}
+F2
+
+--- Take any of the following actions ---
+L) Load number
+D) Delete number
+S) Show numbers
+C) Convert base
+V) Verify system integrity
+Q) Quit
+> Q
+Bye
